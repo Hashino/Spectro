@@ -1,0 +1,30 @@
+{
+  "name": "spectro",
+  "version": "1.0.0",
+  "description": "Meta Programação Filosófica do Gheto - A revolutionary approach to education and creative methodology",
+  "main": "tools/reflection.py",
+  "scripts": {
+    "reflect": "python3 tools/reflection.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashino/Spectro.git"
+  },
+  "keywords": [
+    "education",
+    "pedagogy",
+    "philosophy",
+    "social-justice",
+    "anti-asylum",
+    "community-education",
+    "peripheral-communities",
+    "brazil",
+    "dupla-methodology"
+  ],
+  "author": "hashino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashino/Spectro/issues"
+  },
+  "homepage": "https://github.com/hashino/Spectro#readme"
+}
