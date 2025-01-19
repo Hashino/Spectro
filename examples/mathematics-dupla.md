@@ -1,9 +1,9 @@
-# Example: Implementing Dupla-Based Mathematics Learning
+# Example: Implementing Partnership-Based Mathematics Learning
 
 This example demonstrates how to apply Spectro principles to mathematics education, traditionally one of the most hierarchical and trauma-inducing subjects.
 
 ## Scenario
-A young person from a peripheral community struggles with algebraic concepts. Traditional approaches have led to math anxiety and feelings of inadequacy.
+A young person from a marginalized community struggles with algebraic concepts. Traditional approaches have led to math anxiety and feelings of inadequacy.
 
 ## Traditional Approach vs. Spectro Approach
 
@@ -12,47 +12,47 @@ A young person from a peripheral community struggles with algebraic concepts. Tr
 - Student passively receives information
 - Mistakes are corrected immediately
 - Progress measured by standardized assessments
-- Focus on getting "right" answers
+- Focus on getting "correct" answers
 
 ### Spectro Approach:
 
-#### 1. Establishing the Dupla
+#### 1. Establishing the Partnership
 - Begin by acknowledging both parties bring valuable knowledge
-- The educator brings technical knowledge; the learner brings lived experience and questions
+- The educator brings technical knowledge; the learner brings lived experience and inquiries
 - Create agreement about mutual respect and shared responsibility
 
-#### 2. Centering Questions [/]
-Instead of starting with answers, begin with questions:
-- "What does algebra mean to you?"
-- "Where do you see patterns in your daily life?"
-- "What would you want to do if you understood these concepts?"
+#### 2. Centering Inquiries ◈
+Instead of starting with answers, begin with inquiries:
+- "What does algebra signify to you?"
+- "Where do you observe patterns in your daily existence?"
+- "What would you desire to accomplish if you understood these concepts?"
 
-#### 3. Student-Controlled Learning [o]
-- Let the learner set the pace
+#### 3. Learner-Directed Learning ◆
+- Let the learner establish the rhythm
 - Offer multiple ways to engage with concepts (visual, kinesthetic, narrative)
 - Allow exploration of tangents and connections to personal interests
-- Support learner in choosing their own goals and measures of progress
+- Support learner in choosing their own objectives and measures of progress
 
-#### 4. Infinite Love [~]
+#### 4. Boundless Compassion ◇
 - Celebrate struggle as part of learning
-- Reframe "mistakes" as valuable information
+- Reframe "errors" as valuable information
 - Maintain faith in the learner's capacity
-- Create emotional safety for taking risks
+- Create emotional security for taking risks
 
-#### 5. Self-Care [=]
+#### 5. Self-Preservation ◊
 - Educator monitors their own frustration and takes breaks when needed
 - Learner is supported in recognizing when they need rest or different approaches
-- Both parties practice saying "I don't know" without shame
+- Both parties practice saying "I don't understand" without shame
 
 ## Sample Session
 
-**Opening**: "What questions are you bringing to our time together today?"
+**Opening**: "What inquiries are you bringing to our time together today?"
 
-**Exploration**: Learner shares confusion about linear equations. Instead of explaining immediately, educator asks: "Can you show me what you think this equation is trying to tell us?"
+**Exploration**: Learner shares confusion about linear equations. Instead of explaining immediately, educator asks: "Can you show me what you think this equation is attempting to communicate to us?"
 
 **Collaborative Investigation**: Together, they explore the equation using real-world examples meaningful to the learner's experience - perhaps calculating costs for a community event or analyzing patterns in music.
 
-**Question Generation**: Session ends not with answers but with new questions: "What other patterns might work this way? How might this connect to things you care about?"
+**Inquiry Generation**: Session ends not with answers but with fresh inquiries: "What other patterns might function this way? How might this connect to things you care about?"
 
 **Reflection**: Both parties reflect on what they learned - about mathematics and about each other.
 

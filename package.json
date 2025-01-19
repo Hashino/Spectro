@@ -1,7 +1,7 @@
 {
   "name": "spectro",
-  "version": "1.0.0",
-  "description": "Meta Programação Filosófica do Gheto - A revolutionary approach to education and creative methodology",
+  "version": "1.1.0",
+  "description": "Philosophical Meta-Programming from the Margins - A transformative approach to learning and creative methodology",
   "main": "tools/reflection.py",
   "scripts": {
     "reflect": "python3 tools/reflection.py"
@@ -15,11 +15,12 @@
     "pedagogy",
     "philosophy",
     "social-justice",
-    "anti-asylum",
+    "anti-institutional",
     "community-education",
-    "peripheral-communities",
+    "marginalized-communities",
     "brazil",
-    "dupla-methodology"
+    "partnership-methodology",
+    "transformative-learning"
   ],
   "author": "hashino",
   "license": "MIT",

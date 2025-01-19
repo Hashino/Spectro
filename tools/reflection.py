@@ -3,7 +3,7 @@
 Spectro Learning Session Reflection Tool
 
 A simple command-line tool to help educators and learners reflect on 
-dupla-based learning sessions using Spectro methodology principles.
+partnership-based learning sessions using Spectro methodology principles.
 """
 
 import datetime
@@ -23,50 +23,50 @@ class SpectroReflection:
         
         # Basic session info
         self.session_data['date'] = datetime.date.today().isoformat()
-        self.session_data['participants'] = input("Who participated in this dupla? ")
+        self.session_data['participants'] = input("Who participated in this partnership? ")
         self.session_data['context'] = input("What was the learning context/subject? ")
         
-        print("\n--- Core Principle Reflections ---")
+        print("\n--- Foundational Element Reflections ---")
         
-        # Rule [/] - Never forget the question
-        print("\n[/] Questions that drove today's learning:")
+        # Element ◈ - Never abandon the inquiry
+        print("\n◈ Inquiries that drove today's learning:")
         questions = []
         while True:
-            q = input("Enter a question (or press enter to continue): ")
+            q = input("Enter an inquiry (or press enter to continue): ")
             if not q:
                 break
             questions.append(q)
-        self.session_data['driving_questions'] = questions
+        self.session_data['driving_inquiries'] = questions
         
         new_questions = []
-        print("\nNew questions that emerged:")
+        print("\nFresh inquiries that emerged:")
         while True:
-            q = input("Enter a new question (or press enter to continue): ")
+            q = input("Enter a new inquiry (or press enter to continue): ")
             if not q:
                 break
             new_questions.append(q)
-        self.session_data['new_questions'] = new_questions
+        self.session_data['new_inquiries'] = new_questions
         
-        # Rule [o] - Student controls learning
+        # Element ◆ - Learner steers learning
         self.session_data['learner_agency'] = input(
-            "\n[o] How did the learner exercise agency/control today? "
+            "\n◆ How did the learner exercise agency/steering today? "
         )
         
-        # Rule [~] - Infinite love
-        self.session_data['love_expressions'] = input(
-            "\n[~] How was love/care expressed in this session? "
+        # Element ◇ - Boundless compassion
+        self.session_data['compassion_expressions'] = input(
+            "\n◇ How was compassion/care expressed in this session? "
         )
         
-        # Rule [=] - Self-care first  
-        self.session_data['self_care'] = input(
-            "\n[=] How did you practice self-care during this session? "
+        # Element ◊ - Self-preservation first  
+        self.session_data['self_preservation'] = input(
+            "\n◊ How did you practice self-preservation during this session? "
         )
         
         # General reflections
         print("\n--- General Reflection ---")
-        self.session_data['went_well'] = input("What went well? ")
-        self.session_data['challenges'] = input("What was challenging? ")
-        self.session_data['insights'] = input("What insights emerged? ")
+        self.session_data['flourished'] = input("What flourished today? ")
+        self.session_data['challenges'] = input("What proved challenging? ")
+        self.session_data['insights'] = input("What insights surfaced? ")
         self.session_data['next_steps'] = input("What are potential next steps? ")
         
     def save_reflection(self):
@@ -109,7 +109,7 @@ class SpectroReflection:
             print(f"\n--- {date} ---")
             print(f"Participants: {data.get('participants', 'N/A')}")
             print(f"Context: {data.get('context', 'N/A')}")
-            print(f"Key Questions: {', '.join(data.get('driving_questions', []))}")
+            print(f"Key Inquiries: {', '.join(data.get('driving_inquiries', []))}")
             if data.get('insights'):
                 print(f"Insights: {data['insights']}")
 
@@ -126,7 +126,7 @@ def main():
     if choice == "1":
         tool.gather_reflection()
         tool.save_reflection()
-        print("\n💝 Remember: The dupla never forgets the question.")
+        print("\n◇ Remember: The partnership never abandons the inquiry.")
         
     elif choice == "2":
         days = input("How many days back to view? (default 7): ")
@@ -137,7 +137,7 @@ def main():
         tool.view_recent_reflections(days)
         
     elif choice == "3":
-        print("Keep questioning, keep loving. ❤️")
+        print("Keep questioning, keep nurturing. ◈")
         
     else:
         print("Invalid option. Please choose 1, 2, or 3.")

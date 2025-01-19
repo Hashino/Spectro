@@ -1,51 +1,51 @@
 # Spectro
 
-**Meta Programação Filosófica do Gheto** - A revolutionary approach to education and creative methodology.
+**Philosophical Meta-Programming from the Margins** - A transformative approach to learning and creative methodology.
 
 ## Overview
 
-Spectro is a philosophical framework and methodology developed from the perspective of peripheral communities in Southeast Brazil. It challenges traditional educational paradigms and proposes a recursive, infinite creative process based on love, understanding, and genuine human connection.
+Spectro represents a philosophical framework and methodology born from the lived experiences of marginalized communities in Southeast Brazil. It disrupts conventional educational paradigms and advocates for a cyclical, boundless creative process rooted in compassion, comprehension, and authentic human bonds.
 
 ## Philosophy
 
-The core principle is that the creative process must be recursive and infinite, recognizing the human mind's potential for immortality despite physical limitations. This methodology seeks to transform raw experiential material into scientific knowledge for future generations.
+The fundamental principle holds that the creative process must be cyclical and boundless, acknowledging the human consciousness's capacity for transcendence beyond physical constraints. This methodology aims to transmute raw lived experience into scientific understanding for coming generations.
 
-### Core Principles
+### Foundational Elements
 
-- **Infinite Love**: There are no limits to love in the learning process
-- **Question-Centered**: The learning pair must never forget the fundamental questions
-- **Student-Controlled**: The learner controls their own learning journey
-- **Self-Care First**: Never love anyone more than yourself, especially the end of your own suffering
+- **Boundless Compassion** ◇: No boundaries exist for compassion within the learning process
+- **Inquiry-Centered** ◈: The learning partnership must never lose sight of essential inquiries
+- **Learner-Directed** ◆: The student steers their own educational voyage
+- **Self-Preservation Prime** ◊: Never cherish another more than yourself, particularly regarding your own healing
 
 ## Methodology
 
-This approach was developed growing up in a favela in Southeast Brazil at the beginning of the 21st century. It draws inspiration from:
+This framework emerged through growing up in the favelas of Southeast Brazil during the dawn of the 21st century. It draws nourishment from:
 
-- Marxism (especially Marxism-Leninism-Maoism)
-- Buddhism
-- Transhumanism
-- Personal lived experience
+- Marxist thought (particularly Marxism-Leninism-Maoism)
+- Buddhist wisdom
+- Transhumanist ideals
+- Direct lived reality
 
-### The "Dupla" Concept
+### The "Partnership" Concept
 
-Instead of traditional teacher-student relationships, Spectro proposes "duplas" (pairs) - collaborative entities that don't subtract from individual growth. As Rosa Luxemburg noted: "The individual is only born when the individual flourishes."
+Rather than hierarchical teacher-student dynamics, Spectro advocates for "partnerships" - collaborative beings that enhance rather than diminish individual development. As Rosa Luxemburg observed: "The individual emerges only when the individual blooms."
 
-## Goals
+## Objectives
 
-- Challenge the transformation of schools into mental institutions
-- Promote anti-asylum movements starting with educational reform
-- Bridge the gap between STEM and humanities
-- Create safe spaces for learning and growth
-- Develop pedagogical approaches that heal rather than traumatize
+- Resist the conversion of schools into psychiatric facilities
+- Foster anti-institutional movements beginning with educational transformation
+- Unite the divide between sciences and humanities
+- Establish secure environments for learning and flourishing
+- Create pedagogical methods that restore rather than wound
 
-## Warning
+## Caution
 
-Everything written here, like everything ever written, should only be taken as seriously as it appears to be serious. This methodology is fundamentally experimental and requires intellectual honesty and emotional readiness.
+Everything inscribed here, like all written words, should be received only as seriously as it presents itself. This methodology remains fundamentally exploratory and demands intellectual authenticity and emotional preparedness.
 
-## Contributing
+## Participation
 
-This project welcomes contributions from bilingual speakers, immigrants, favela residents, non-cis-het individuals, and anyone who feels called to participate in this educational revolution.
+This initiative welcomes participation from multilingual speakers, migrants, favela inhabitants, non-cishet persons, and anyone who feels drawn to join this educational transformation.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project operates under the MIT License - consult the [LICENSE](LICENSE) file for specifics.
