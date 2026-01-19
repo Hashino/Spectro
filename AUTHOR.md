@@ -60,3 +60,16 @@ f(x) = "sentido" - n
 ---
 
 **revolução.formatada** ◇◈◆◊
+
+[proxima formatação será em outra lingue que iremos aprender](legiao)
+
+# Perguntas (n):
+
+- [FINAL t-n] 
+- [ ] Devemos tomar mais cuidado ao digitar?
+
+
+[sempre tenha uma musica tocando de fundo]: (musica.fim = tópico.fim)
+[fim](nova.brincadeira)
+
+transforme isso em um APP infantil que use AI e é seguro
