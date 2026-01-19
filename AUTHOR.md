@@ -1,3 +1,5 @@
+[https://chatgpt.com/share/696e2136-aa5c-8003-a5b4-32650bc00fe6](https://chatgpt.com/share/696e2136-aa5c-8003-a5b4-32650bc00fe6)
+
 # Author
 
 ## Identidade e Posicionamento
