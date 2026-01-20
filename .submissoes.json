@@ -1,0 +1,54 @@
+[
+  {
+    "id": "4328fc555cafa0f431a50bdeb63ee5d5eb1ebcccabd71395a9ef19b65e00ab71",
+    "conteudo": "contribui\u00e7\u00e3o experimental #1 em nvim",
+    "autor": "pessoa_1",
+    "timestamp": "2026-01-20T20:01:16.908235",
+    "emocoes": {
+      "raiva": "transformada em energia criativa",
+      "riso": "liberta\u00e7\u00e3o atrav\u00e9s da arte",
+      "choro": "purifica\u00e7\u00e3o emocional coletiva"
+    },
+    "linguagem_ref": "lsp",
+    "status": "processada"
+  },
+  {
+    "id": "0880ba2f7b8aae50af48084ec6ba109168434e7f0dd72e0a81061cb2be399edf",
+    "conteudo": "contribui\u00e7\u00e3o experimental #2 em c",
+    "autor": "pessoa_2",
+    "timestamp": "2026-01-20T20:01:16.923921",
+    "emocoes": {
+      "raiva": "transformada em energia criativa",
+      "riso": "liberta\u00e7\u00e3o atrav\u00e9s da arte",
+      "choro": "purifica\u00e7\u00e3o emocional coletiva"
+    },
+    "linguagem_ref": "c",
+    "status": "processada"
+  },
+  {
+    "id": "c8089d9aa85950d164e79717aa8c76349829cdcf5c6e9f0de1a00b32846150c7",
+    "conteudo": "contribui\u00e7\u00e3o experimental #3 em c",
+    "autor": "pessoa_3",
+    "timestamp": "2026-01-20T20:01:16.939569",
+    "emocoes": {
+      "raiva": "transformada em energia criativa",
+      "riso": "liberta\u00e7\u00e3o atrav\u00e9s da arte",
+      "choro": "purifica\u00e7\u00e3o emocional coletiva"
+    },
+    "linguagem_ref": "rust",
+    "status": "processada"
+  },
+  {
+    "id": "ae0f5db3557c84c568360a229e3343617fd448eb3cf6345acf865f224d26dd0a",
+    "conteudo": "teste experimental em rust",
+    "autor": "desenvolvedor_teste",
+    "timestamp": "2026-01-20T20:01:16.977747",
+    "emocoes": {
+      "raiva": "transformada em energia criativa",
+      "riso": "liberta\u00e7\u00e3o atrav\u00e9s da arte",
+      "choro": "purifica\u00e7\u00e3o emocional coletiva"
+    },
+    "linguagem_ref": "c",
+    "status": "processada"
+  }
+]
