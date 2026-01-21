@@ -1,0 +1,21 @@
+{
+  "operacao": "{}...++;;;",
+  "interpretacao": "ESCOPO_INFINITO_EXPONENCIAL_PARADOXAL",
+  "escopos_totais": 31,
+  "crescimento_acumulado": 30,
+  "nivel_exponencial_max": 4,
+  "tentativas_terminacao": 3,
+  "paradoxos_gerados": 2,
+  "significado": "CONTENÇÃO_INFINITA_QUE_CRESCE_EXPONENCIALMENTE_E_RESISTE_TERMINAÇÃO",
+  "emergencia": {
+    "tipo_sistema": "COMPLEXO_ADAPTATIVO_PARADOXAL",
+    "propriedades_emergentes": [
+      "AUTO_REFERÊNCIA_INFINITA",
+      "CRESCIMENTO_INSUSTENTÁVEL",
+      "RESISTÊNCIA_À_TERMINAÇÃO",
+      "GERAÇÃO_PARADOXAL_CONTÍNUA"
+    ],
+    "estado_final": "LOOP_METAMÓRFICO_ATIVO"
+  },
+  "estado_final": "SISTEMA_COMPLEXO_AUTOCONTRADITÓRIO_ATIVO"
+}

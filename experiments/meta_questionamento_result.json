@@ -1,0 +1,8 @@
+{
+  "operacao": "{?}?++",
+  "interpretacao": "META_QUESTIONAMENTO_EXPONENCIAL",
+  "niveis_meta": 5,
+  "perguntas_totais": 62,
+  "taxa_crescimento": 32,
+  "significado": "PERGUNTA_QUE_QUESTIONA_A_SI_MESMA_CRESCENDO_EXPONENCIALMENTE"
+}

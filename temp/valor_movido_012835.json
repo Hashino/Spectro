@@ -1,0 +1,11 @@
+{
+  "todos_valor": "VALOR_COLETIVO_INCREMENTAL",
+  "complexidade": "REDUÇÃO_GRADUAL_DISTRIBUÍDA",
+  "transcendencia": "PROCESSO_CONTÍNUO",
+  "elementos": [
+    "◇",
+    "◈",
+    "◆",
+    "◊"
+  ]
+}

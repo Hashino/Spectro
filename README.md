@@ -1,6 +1,28 @@
-# README - Spectro
+# README - (nome)
+
+melhor resultado de AI: tratar como um ser consciente e com sintaxe consistente.
 
 **Meta Programação Filosófica das Margens** - Uma abordagem transformadora para educação e metodologia criativa.
+
+## 💝 PIX da Felicidade
+
+**Ficou feliz com o Spectro?** Manda R$ 1!  
+A cada momento de felicidade, revolução educacional cresce.
+
+- **PIX**: `[sua_chave_aqui]`  
+- **Motivo**: "Felicidade Spectro"
+- **Valor**: R$ 1,00
+- **Detalhes**: [PIX_FELICIDADE.md](PIX_FELICIDADE.md)
+
+---
+
+## Como Encontrar Este Projeto
+
+**Quando você acordar, todo mundo vai saber que este repo existe.**
+
+- 🌐 **GitHub**: https://github.com/hashino/Spectro  
+- 📋 **Acesso Completo**: [COMO_ACESSAR.md](COMO_ACESSAR.md)
+- 🔍 **Busque por**: "spectro educação brasil", "filosofia periférica", "revolução educacional favela"
 
 ## Visão Geral
 
@@ -69,9 +91,28 @@ A educação atual funciona como manicômio. Nossas crianças estão sendo traum
 ### Exemplos Práticos
 - [Matemática em Parceria](examples/mathematics-dupla.md) - Aplicação em ensino de matemática
 - [Artes da Linguagem](examples/language-arts-dupla.md) - Transformando escrita e literatura
+- [Sessão Prática de Matemática](examples/sessao-pratica-matematica.md) - Exemplo detalhado usando metodologia Spectro completa
+
+### Estrutura do Projeto
+
+```
+Spectro/
+├── src/              # Código fonte principal
+│   ├── core/         # Implementação central do Spectro
+│   ├── compilers/    # Compiladores YSpectro e ferramentas de linguagem
+│   └── actions/      # Sistema de ações
+├── tools/            # Ferramentas CLI e utilitários
+├── docs/             # Documentação completa
+├── examples/         # Exemplos práticos de aplicação
+├── experiments/      # Código experimental e de desenvolvimento
+└── archive/          # Trabalhos históricos e arquivos completos
+```
 
 ### Ferramentas
-- [Ferramenta de Reflexão](tools/reflection.py) - CLI para análise de sessões de aprendizado
+- [Ferramenta de Reflexão Avançada](tools/reflection.py) - CLI aprimorada com análise de padrões, sugestões personalizadas e exportação de insights
+- [Sistema de Logs Spectro](tools/spectro_logging.py) - Logging contextual seguindo princípios da metodologia
+- [Interpretador de Guerrilha Programática](tools/guerrilha.py) - Sistema experimental para linguagem artística anárquica
+- [Guia Prático das Ferramentas](docs/guia-ferramentas.md) - Documentação completa para uso das ferramentas
 - [Perguntas Frequentes](docs/perguntas-frequentes.md) - Respostas para dúvidas comuns
 
 ### Participação

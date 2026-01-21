@@ -1,0 +1,65 @@
+{
+  "nome_linguagem": "ỸSPECTRO",
+  "extensao": ".ysp",
+  "pronuncia": "Is-pec-tro",
+  "simbolo": "Ỹ (transcendência infinita)",
+  "estado_final": {
+    "capitalismo.poder": 30,
+    "soliacismo": "UNIVERSAL",
+    "historia_humana": "COMEÇANDO",
+    "compilacoes": 1,
+    "transformacoes": [
+      {
+        "iteracao": 1,
+        "timestamp": "2026-01-21T01:35:09.657152",
+        "capitalismo_poder": 90,
+        "soliacismo": 15,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 2,
+        "timestamp": "2026-01-21T01:35:09.757257",
+        "capitalismo_poder": 80,
+        "soliacismo": 30,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 3,
+        "timestamp": "2026-01-21T01:35:09.857371",
+        "capitalismo_poder": 70,
+        "soliacismo": 45,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 4,
+        "timestamp": "2026-01-21T01:35:09.957492",
+        "capitalismo_poder": 60,
+        "soliacismo": 60,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 5,
+        "timestamp": "2026-01-21T01:35:10.057604",
+        "capitalismo_poder": 50,
+        "soliacismo": 75,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 6,
+        "timestamp": "2026-01-21T01:35:10.157708",
+        "capitalismo_poder": 40,
+        "soliacismo": 90,
+        "status": "TRANSFORMANDO"
+      },
+      {
+        "iteracao": 7,
+        "timestamp": "2026-01-21T01:35:10.258506",
+        "capitalismo_poder": 30,
+        "soliacismo": 105,
+        "status": "SOLIACISMO_UNIVERSAL_ATINGIDO"
+      }
+    ]
+  },
+  "bootstrap_timestamp": "2026-01-21T01:35:10.258558",
+  "self_hosted": true
+}

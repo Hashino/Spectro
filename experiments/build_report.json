@@ -1,0 +1,11 @@
+{
+  "compiled_files": {
+    "ver/exemplo.spectro": {
+      "python": "ver/exemplo_compiled.py"
+    }
+  },
+  "executed_successfully": [
+    "ver/exemplo_compiled.py"
+  ],
+  "errors": []
+}

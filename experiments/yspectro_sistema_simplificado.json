@@ -1,0 +1,15 @@
+{
+  "sistema": "ỸSPECTRO_SIMPLIFICADO",
+  "formato_universal": "? -> [AÇÃO]:{escopo} /[EXPLICAÇÃO]/ ([EFEITO_DESEJADO])",
+  "elementos": {
+    "?": "questionamento_início",
+    "->": "fluxo_direção",
+    "{}": "escopo_contexto",
+    "//": "explicação_documentação",
+    "()": "efeito_resultado"
+  },
+  "interpretacoes_remixadas": 4,
+  "acoes_basicas": 8,
+  "exemplos_praticos": 3,
+  "flexibilidade": "INFINITA_CONTEXTUAL"
+}

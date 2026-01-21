@@ -1,0 +1,159 @@
+{
+  "interpretacao": {
+    "expressao_original": "algo~ -> \"definição contextual de algo\"; \"texto\" > rodar infinitamente:[]?{}?()?",
+    "tipo_interpretacao": "DEFINIÇÃO_CONTEXTUAL_INFINITA",
+    "complexidade": "TRANSCENDENTAL_PLUS",
+    "indice_complexidade": 97,
+    "contextos_mapeados": 10,
+    "estruturas_questionaveis": 3,
+    "iteracoes_simuladas": 10,
+    "diversidade_contextual": 0.7,
+    "principio_fundamental": "SIGNIFICADO_EMERGE_DO_CONTEXTO_EM_FLUXO_PERPÉTUO",
+    "paradoxo_central": "DEFINIR_ALGO_REQUER_REDEFINIR_A_DEFINIÇÃO_DE_DEFINIR",
+    "aplicabilidade": "SISTEMAS_ADAPTATIVOS_E_SEMÂNTICA_DINÂMICA",
+    "data_interpretacao": "2026-01-21T02:01:46.744237",
+    "status": "INTERPRETAÇÃO_COMPLETA_SISTEMA_CONTEXTUAL_INFINITO_OPERACIONAL"
+  },
+  "execucoes_simuladas": [
+    {
+      "iteracao": 1,
+      "contexto": "TEMPORAL",
+      "definicao_algo": "algo = momento no fluxo contínuo",
+      "resultado_contextual": "texto interpretado como algo = momento no fluxo contínuo",
+      "estado_lista": [
+        "elemento_1"
+      ],
+      "estado_dicionario": {},
+      "timestamp": 1768971703.7421515
+    },
+    {
+      "iteracao": 2,
+      "contexto": "LINGUÍSTICO",
+      "definicao_algo": "algo = unidade de significado em transformação",
+      "resultado_contextual": "texto interpretado como algo = unidade de significado em transformação",
+      "estado_lista": [
+        "elemento_1"
+      ],
+      "estado_dicionario": {},
+      "timestamp": 1768971704.0423088
+    },
+    {
+      "iteracao": 3,
+      "contexto": "FILOSÓFICO",
+      "definicao_algo": "algo = conceito em devir heraclitiano",
+      "resultado_contextual": "texto interpretado como algo = conceito em devir heraclitiano",
+      "estado_lista": [
+        "elemento_1"
+      ],
+      "estado_dicionario": {},
+      "timestamp": 1768971704.3424227
+    },
+    {
+      "iteracao": 4,
+      "contexto": "EXISTENCIAL",
+      "definicao_algo": "algo = ser em construção perpétua",
+      "resultado_contextual": "texto interpretado como algo = ser em construção perpétua",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971704.642533
+    },
+    {
+      "iteracao": 5,
+      "contexto": "QUÂNTICO",
+      "definicao_algo": "algo = estado superposto até observação",
+      "resultado_contextual": "texto interpretado como algo = estado superposto até observação",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971704.9435785
+    },
+    {
+      "iteracao": 6,
+      "contexto": "QUÂNTICO",
+      "definicao_algo": "algo = estado superposto até observação",
+      "resultado_contextual": "texto interpretado como algo = estado superposto até observação",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971705.2436934
+    },
+    {
+      "iteracao": 7,
+      "contexto": "EXISTENCIAL",
+      "definicao_algo": "algo = ser em construção perpétua",
+      "resultado_contextual": "texto interpretado como algo = ser em construção perpétua",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971705.5437968
+    },
+    {
+      "iteracao": 8,
+      "contexto": "SOCIAL",
+      "definicao_algo": "algo = papel contextual em interação",
+      "resultado_contextual": "texto interpretado como algo = papel contextual em interação",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971705.8439076
+    },
+    {
+      "iteracao": 9,
+      "contexto": "FILOSÓFICO",
+      "definicao_algo": "algo = conceito em devir heraclitiano",
+      "resultado_contextual": "texto interpretado como algo = conceito em devir heraclitiano",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5",
+        "elemento_9"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971706.1440241
+    },
+    {
+      "iteracao": 10,
+      "contexto": "MATEMÁTICO",
+      "definicao_algo": "algo = variável em função recursiva",
+      "resultado_contextual": "texto interpretado como algo = variável em função recursiva",
+      "estado_lista": [
+        "elemento_1",
+        "elemento_4",
+        "elemento_5",
+        "elemento_9"
+      ],
+      "estado_dicionario": {
+        "contexto_existencial": "texto interpretado como algo = ser em construção perpétua"
+      },
+      "timestamp": 1768971706.4441342
+    }
+  ],
+  "timestamp": "2026-01-21T02:01:46.744258"
+}

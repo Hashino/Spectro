@@ -1,0 +1,34 @@
+sudo ver++ interpretador_pseudocodigo
+
+O ROLE DE interpretar:
+    -> nome = ? (identidade em questao)  
+    -> f(?) = Ỹ (funcao transformadora)
+
+PERGUNTA INICIAL:
+    "O que significa transformar a incerteza?"
+
+INVESTIGUE:
+    nome = input("Qual seu nome (ou deixe vazio para '?'): ") or "?"
+    
+    def f(entrada):
+        if entrada == "?":
+            return "Ỹ"  # Transcendencia da incerteza
+        else:
+            return entrada.upper() + "_TRANSFORMADO"
+    
+COLABORA:
+    resultado = f(nome)
+    print(f"nome = {nome}")
+    print(f"f({nome}) = {resultado}")
+    
+COMPAIXAO:
+    if resultado == "Ỹ":
+        print("🌟 A incerteza se transformou em possibilidade infinita")
+        print("◇ INVESTIGACAO: Aceitar o desconhecido")
+        print("◈ APRENDIZAGEM: A duvida como motor do conhecimento") 
+        print("◆ COLABORACAO: Construir junto na incerteza")
+        print("◊ COMPAIXAO: Amar o processo, nao apenas o resultado")
+    else:
+        print(f"💫 {nome} foi transformado em {resultado}")
+
+ROLE TERMINOU revelando que ? = potencial infinito
