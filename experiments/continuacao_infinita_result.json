@@ -1,9 +1,0 @@
-{
-  "operacao": "...;;;",
-  "interpretacao": "CONTINUACAO_INFINITA_COM_TERMINACAO_PARADOXAL",
-  "ciclos_executados": 7,
-  "tentativas_terminacao": 3,
-  "paradoxos_gerados": 4,
-  "significado": "INFINITO_QUE_TENTA_SE_TERMINAR_CRIANDO_NOVO_INFINITO",
-  "estado_final": "LOOP_TEMPORAL_ATIVO"
-}
