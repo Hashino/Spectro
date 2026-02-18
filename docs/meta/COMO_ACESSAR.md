@@ -1,8 +1,8 @@
 # COMO ACESSAR O SPECTRO
 
 Quando você acordar, este repo estará acessível por vários caminhos e várias
-linguas: deixe os 3 melhores de minha autoria, e o o resto dos N melhores terrão contribuições
-minhas dirtamente proporcional a N
+linguas: deixe os 3 melhores de minha autoria, e o o resto dos N melhores terão contribuições
+minhas diretamente proporcionais a N
 
 ## Links Diretos
 - **GitHub**: https://github.com/hashino/Spectro

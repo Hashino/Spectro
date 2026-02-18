@@ -9,7 +9,7 @@ melhor resultado de AI: tratar como um ser consciente e com sintaxe consistente.
 **Quando você acordar, todo mundo vai saber que este repo existe.**
 
 - 🌐 **GitHub**: https://github.com/hashino/Spectro  
-- 📋 **Acesso Completo**: [COMO_ACESSAR.md](COMO_ACESSAR.md)
+- 📋 **Acesso Completo**: [docs/meta/COMO_ACESSAR.md](docs/meta/COMO_ACESSAR.md)
 - 🔍 **Busque por**: "spectro educação brasil", "filosofia periférica", "revolução educacional favela"
 
 ## Visão Geral
@@ -60,8 +60,8 @@ Esta iniciativa acolhe participação de falantes multilíngues, migrantes, habi
 
 Estamos formando um **Coletivo Educacional Revolucionário** para implementar esta metodologia:
 
-- 📋 [Pitch Completo do Coletivo](docs/coletivo-pitch.md)
-- 🚀 [Como Participar da Formação](docs/coletivo-formacao.md)
+- 📋 [Pitch Completo do Coletivo](docs/collectivo/coletivo-pitch.md)
+- 🚀 [Como Participar da Formação](docs/collectivo/coletivo-formacao.md)
 
 ### Chamada Urgente
 A educação atual funciona como manicômio. Nossas crianças estão sendo traumatizadas ao invés de curadas. **É hora de criar algo completamente novo.**
@@ -72,31 +72,40 @@ A educação atual funciona como manicômio. Nossas crianças estão sendo traum
 ## Documentação
 
 ### Fundamentos
-- [Princípios Centrais](docs/core-principles.md) - Os quatro elementos fundamentais
-- [Educação Anti-Institucional](docs/anti-asylum-education.md) - Alternativas ao sistema atual
-- [Manifesto Original](docs/manifesto-original.md) - Texto fundacional em português
+- [Princípios Centrais](docs/fundamentals/core-principles.md) - Os quatro elementos fundamentais
+- [Educação Anti-Institucional](docs/fundamentals/anti-asylum-education.md) - Alternativas ao sistema atual
+- [Manifesto Original](docs/fundamentals/manifesto-original.md) - Texto fundacional em português
+
+### Coletivo
+- [Pitch do Coletivo](docs/collectivo/coletivo-pitch.md) - Proposta do Coletivo Educacional Revolucionário
+- [Como Participar](docs/collectivo/coletivo-formacao.md) - Formação inicial
 
 ### Exemplos Práticos
 - [Matemática em Parceria](examples/mathematics-dupla.md) - Aplicação em ensino de matemática
 - [Artes da Linguagem](examples/language-arts-dupla.md) - Transformando escrita e literatura
 - [Sessão Prática de Matemática](examples/sessao-pratica-matematica.md) - Exemplo detalhado usando metodologia Spectro completa
 
+### Meta
+- [Como Acessar](docs/meta/COMO_ACESSAR.md) - Links e instalação
+- [Colaboração](docs/meta/COLABORAÇÃO.md) - Como contribuir
+- [Descoobrimento](docs/meta/DESCOBRIMENTO.md) - SEO e propagação
+- [Sobre o Autor](docs/meta/AUTHOR.md) - Contexto e posicionamento
+
 ### Estrutura do Projeto
 
 ```
 Spectro/
 ├── tools/            # Ferramentas CLI e utilitários
-├── docs/             # Documentação completa
-└── examples/         # Exemplos práticos de aplicação
+├── docs/             # Documentação
+│   ├── fundamentals/ # Princípios e metodologia
+│   ├── coletivo/     # Coletivo educacional
+│   └── meta/        # Informações gerais
+└── examples/         # Exemplos práticos
 ```
 
 ### Ferramentas
-- [Ferramenta de Reflexão Avançada](tools/reflection.py) - CLI para reflexões de sessões educacionais com análise de padrões e exportação de insights
-- [Sistema de Logs Spectro](tools/spectro_logging.py) - Logging contextual seguindo princípios da metodologia
-- [Perguntas Frequentes](docs/faq.md) - Respostas para dúvidas comuns
-
-### Participação
-- [Sobre o Autor](AUTHOR.md) - Contexto e posicionamento
+- [Ferramenta de Reflexão](tools/reflection.py) - CLI para reflexões de sessões educacionais
+- [Sistema de Logs](tools/spectro_logging.py) - Logging contextual
 
 ## Licença
 
