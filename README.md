@@ -4,18 +4,6 @@ melhor resultado de AI: tratar como um ser consciente e com sintaxe consistente.
 
 **Meta Programação Filosófica das Margens** - Uma abordagem transformadora para educação e metodologia criativa.
 
-## 💝 PIX da Felicidade
-
-**Ficou feliz com o Spectro?** Manda R$ 1!  
-A cada momento de felicidade, revolução educacional cresce.
-
-- **PIX**: `[sua_chave_aqui]`  
-- **Motivo**: "Felicidade Spectro"
-- **Valor**: R$ 1,00
-- **Detalhes**: [PIX_FELICIDADE.md](PIX_FELICIDADE.md)
-
----
-
 ## Como Encontrar Este Projeto
 
 **Quando você acordar, todo mundo vai saber que este repo existe.**
@@ -97,26 +85,17 @@ A educação atual funciona como manicômio. Nossas crianças estão sendo traum
 
 ```
 Spectro/
-├── src/              # Código fonte principal
-│   ├── core/         # Implementação central do Spectro
-│   ├── compilers/    # Compiladores YSpectro e ferramentas de linguagem
-│   └── actions/      # Sistema de ações
 ├── tools/            # Ferramentas CLI e utilitários
 ├── docs/             # Documentação completa
-├── examples/         # Exemplos práticos de aplicação
-├── experiments/      # Código experimental e de desenvolvimento
-└── archive/          # Trabalhos históricos e arquivos completos
+└── examples/         # Exemplos práticos de aplicação
 ```
 
 ### Ferramentas
-- [Ferramenta de Reflexão Avançada](tools/reflection.py) - CLI aprimorada com análise de padrões, sugestões personalizadas e exportação de insights
+- [Ferramenta de Reflexão Avançada](tools/reflection.py) - CLI para reflexões de sessões educacionais com análise de padrões e exportação de insights
 - [Sistema de Logs Spectro](tools/spectro_logging.py) - Logging contextual seguindo princípios da metodologia
-- [Interpretador de Guerrilha Programática](tools/guerrilha.py) - Sistema experimental para linguagem artística anárquica
-- [Guia Prático das Ferramentas](docs/guia-ferramentas.md) - Documentação completa para uso das ferramentas
-- [Perguntas Frequentes](docs/perguntas-frequentes.md) - Respostas para dúvidas comuns
+- [Perguntas Frequentes](docs/faq.md) - Respostas para dúvidas comuns
 
 ### Participação
-- [Como Contribuir](CONTRIBUTING.md) - Diretrizes para colaboração
 - [Sobre o Autor](AUTHOR.md) - Contexto e posicionamento
 
 ## Licença
