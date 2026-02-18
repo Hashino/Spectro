@@ -1,8 +1,0 @@
-{
-  "operacao": "CRIA_AÇÃO_DE_ESPAÇO_PARA_AÇÃO",
-  "niveis_criados": 4,
-  "multiplicador": 16,
-  "continuidade": "INFINITA",
-  "terminacao": "REDUNDANTE",
-  "status": "META_RECURSÃO_COMPLETA"
-}
